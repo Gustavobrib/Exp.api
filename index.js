@@ -13,4 +13,4 @@
                document.querySelector("#cidade").innerHTML = data ['localidade'] 
             })
                     })   
-                
+                 
